@@ -13,8 +13,8 @@
 
 Aqui contém todos os exercícios efetuados em sala de aula.
 
-Baseado na lista original em: https://wiki.python.org.br/ListaDeExercicios
+Baseado na lista original em: https://wiki.python.org.br/ListaDeExercicios e sala de aula
 
   
-
-[01. Lista com Loop](/Lista_Loop/README.md)
+[02. Lista Array](/Lista_2_aula/README.md)
+[03. Lista com Loop](/Lista_Loop/README.md)
